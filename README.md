@@ -1,2 +1,2 @@
 # Inmersion_Dev_Alura
-+ Desafios,1,2,3
++ Clase1.Desafios,1,2,3
